@@ -1,7 +1,7 @@
 # Regular Expressions en PL/SQL Oracle, parte II
 
 <p align="justify">
-En este <a href="http://xomalli.blogspot.mx/2013/09/regular-expessions-en-plsql-oracle.html">post</a> anterior mostré ejemplos de búsqueda con las funciones <i>regexp_like</i> y  <i>regexp_instr</i>.
+Estos ejemplos son la segunda parte de este <a href="https://github.com/lynxestudio/20130916-Oracle-RegEx">repositorio</a> anterior mostré ejemplos de búsqueda con las funciones <i>regexp_like</i> y  <i>regexp_instr</i>.
 </p>
 <p>
 A continuación mostrare ejemplos de las funciones <b>regexp_substr</b> y <b>regexp_replace</b> respectivamente.
